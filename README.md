@@ -9,6 +9,8 @@
 
 ### É claro que sempre darei os devidos créditos de onde eu tirei a ideia.
 
+### E fica de conselho também, demorei muito tempo pra chegar nessa conclusão, às vezes vendo isso você chega nela mais rápido.
+
 Vou me esforçar ao máximo para manter meu GitHub organizado, mas tenho a sensação de que algumas "tranqueiras" também vão parar lá rsrs.
 
 Também pretendo escrever tudo em português. Tenho muita vontade de produzir conteúdo, não apenas sobre programação, mas também sobre tecnologia em geral. E sem chance de fazer em inglês, chatão.
