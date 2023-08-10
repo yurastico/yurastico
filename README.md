@@ -1,4 +1,14 @@
-# Oi meu nome é Yuri.
+## Oi, meu nome é Yuri.
 
-## Recentemente tomei uma decisão de postar cada VIRGULA de código que eu digitar, eu sempre estudei muito nas horas vagas mas ficava com um pé atrás de postar meus projetos, porque boa parte da ideia dele provavelmente veio de algum curso, tutorial ou até mesmo projetos que eu vi por ai, sei que todo mundo faz isso, postar um clone do Twitter de algum curso alheio da internet, mas cheguei a conclusão que vale a pena postar qualuqer coisa por alguns motivos: Ter isso documentado, poder mostrar para as pessoas no que eu andei mexendo, dando os devidos créditos obviamente, então é basicamente isso, vou me esforçar ao máximo para meu Github ficar organizado mas acredito que vai entrar muita tranqueira auqi rs.
-### Também vou deixar tudo em português pois tenho muita vontade de produzir conteúdo, não somente em programação mas tecnologia no geral, e sem chances de fazer isso em inglês.
+### Recentemente tomei uma decisão: postar cada **VÍRGULA** de código que eu digitar. Sempre estudei muito nas horas vagas, mas ficava com um pé atrás de compartilhar meus projetos. Isso porque muitas das ideias provavelmente vieram de cursos, tutoriais ou até mesmo de projetos que vi por aí. Sei que muita gente faz isso, posta um clone de Twitter de algum curso etc, mas cheguei à conclusão de que vale a pena postar qualquer coisa, por alguns motivos:
+
+* Ter um registro de tudo que faço
+* Poder mostrar às pessoas no que tenho mexido.
+* Servir como template para outros projetos.
+* Nada se cria tudo se transforma (ou copia rs).
+
+### É claro que sempre darei os devidos créditos de onde eu tirei a ideia.
+
+Vou me esforçar ao máximo para manter meu GitHub organizado, mas tenho a sensação de que algumas "tranqueiras" também vão parar lá rsrs.
+
+Também pretendo escrever tudo em português. Tenho muita vontade de produzir conteúdo, não apenas sobre programação, mas também sobre tecnologia em geral. E sem chance de fazer em inglês, chatão.
