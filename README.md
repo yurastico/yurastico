@@ -21,4 +21,4 @@ Currently, I'm focusing on Mobile Development to understand how it works and per
 
 I'm always listening something:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yurikebrador&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=yurikebrador&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=yurikebrador&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
